@@ -9,3 +9,8 @@ Crie condicionais que desabilitam o botão de incrementar ou decrementar quando 
 Mude a cor do texto em CURRENT_NUMBER para vermelho quando o número for negativo.
 Bons estudos!
 Não esqueça de publicar a sua versão do projeto no seu Github também! 😄
+
+###Desafio concluido:
+- adicionado addEentListener;
+- Alteração de cor ao ficar negativo, utiliazndo CSS e manipulação de DOM;
+- Botão desabilitado quando o contador chega em 10.
