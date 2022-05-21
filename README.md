@@ -1,5 +1,5 @@
 # Exercicios
-##Exercícios diários
+## Exercícios diários
 
 - HTML
 - CSS
