@@ -11,6 +11,6 @@ Bons estudos!
 Não esqueça de publicar a sua versão do projeto no seu Github também! 😄
 
 ###Desafio concluido:
-- adicionado addEentListener;
-- Alteração de cor ao ficar negativo, utiliazndo CSS e manipulação de DOM;
+- adicionado addEventListener;
+- Alteração de cor ao ficar negativo, utilizando CSS e manipulação de DOM;
 - Botão desabilitado quando o contador chega em 10.
