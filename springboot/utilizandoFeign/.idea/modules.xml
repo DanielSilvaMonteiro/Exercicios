@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/projetoonefeign1/projetoonefeign1.iml" filepath="$PROJECT_DIR$/projetoonefeign1/projetoonefeign1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetoonefeign2/projetoonefeign2.iml" filepath="$PROJECT_DIR$/projetoonefeign2/projetoonefeign2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/utilizandoFeign.iml" filepath="$PROJECT_DIR$/.idea/utilizandoFeign.iml" />
+    </modules>
+  </component>
+</project>
