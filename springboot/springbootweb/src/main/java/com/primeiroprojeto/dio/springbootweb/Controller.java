@@ -9,6 +9,6 @@ public class Controller {
 
     @GetMapping("/")
     public String mensagem(){
-        return "Nosso primeiro projeto Spring Boot web";
+        return "Nosso primeiro projeto Spring Boot web!";
     }
 }
